@@ -11,8 +11,8 @@ Esta organização visa concentrar os códigos da Equipe SJBots que surgiu como 
 | [Karine Silva Rangel][Link_Karine]                   | Organização; Gestão; Marketing          | 2023/01 ~ ... |
 | [Herick Alexandre Neves Gonçalves][Link_Herick]      | Programação                             | 2023/01 ~ ... |
 | [Maria Rebeca Corrêa de Sá][Link_Maria]              | Engenharia; Modelagem 3D                | 2023/01 ~ ... |
-| [Murilo Menezes Rangel][Link_Murilo]                 | Elétrica                                | 2023/01 ~ ... |
 | [João Vítor Fernandes Dias][Link_João]               | Líder; Piloto; Elétrica                 | 2023/01 ~ ... |
+| [Murilo Menezes Rangel][Link_Murilo]                 | Elétrica                                | 2023/03 ~ ... |
 
 <!-- Links -->
 [LinkLabMaker]: https://www.instagram.com/labmakersjb/
