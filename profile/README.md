@@ -16,7 +16,26 @@ Esta organização visa concentrar os códigos da Equipe SJBots que surgiu como 
 | [Allan Arruda Rocha Dias][Link_Allan]                | Voluntário                              | Voluntário - Ensino Médio                  | 2023/03 ~ ...     |
 | [Krishna Loterio Gamboa][Link_Krishna]               | Voluntário                              | Voluntário - Ensino Médio                  | 2023/03 ~ ...     |
 | [Murilo Menezes Rangel][Link_Murilo]                 | Voluntário                              | Voluntário - Ensino Médio                  | 2023/10 ~ ...     |
+| [Julia Pessanha Machado da Silva][Link_Murilo]       | Voluntário                              | Voluntário - Ensino Médio                  | 2023/10 ~ ...     |
 | [Marcelo Ecard Souza dos Anjos][Link_Marcelo]        | Elétrica                                | Jovens Talentos - Ensino Médio             | 2023/10 ~ ...     |
+
+## Grupos de WhatsApp
+
+- [Areninha][LinkAreninha]
+- [Guerra de Robôs][LinkGuerraDeRobos]
+- [Seguidor de Linha Brasil][LinkSeguidorDeLinha]
+- [Sumô de Robôs Brasil][LinkSumô]
+- [ArtBot Brasil][Artbot]
+- [Combate Rio][Combate Rio]
+- Guerra de Robôs (sério)
+- Robótica Rio
+
+[LinkAreninha]: https://chat.whatsapp.com/G75cAFL1zIU3ST5fdk17M5
+[LinkGuerraDeRobos]: https://chat.whatsapp.com/B8sLR2Al0UkEI26f12fLha
+[LinkSeguidorDeLinha]: https://chat.whatsapp.com/DR6eKw7h3QsCIDOppnp4ab
+[LinkSumô]: https://chat.whatsapp.com/D8Z5p4fXTLCGTwzOUwecf3
+[Artbot]: https://chat.whatsapp.com/BXMSQ6iBZ9b792aG2I1yYy
+[Combate Rio]: https://chat.whatsapp.com/FadAHLT8pOoLmbCUI0WQ8o
 
 <!-- Links -->
 [LinkLabMaker]: https://www.instagram.com/labmakersjb/
