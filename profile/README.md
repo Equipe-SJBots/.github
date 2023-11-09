@@ -64,7 +64,7 @@ flowchart LR
     p3["Robô Gordo"]
   end
 
-  subgraph ss1 ["Tarefas Semana 1 - 01/08/2023 ~ 07/08/2023"]
+  subgraph ss1 ["Tarefas Semana 1 - 01/10/2023 ~ 07/10/2023"]
     i1["Modificar a carcaça #1"]:::manoel
     i2["Imprimir o Fairy Modificado #2"]:::jean
     i3["Imprimir Fairy Tritan/TPU #3"]:::jean
@@ -72,7 +72,7 @@ flowchart LR
     i5["Entrar em contato com fornecedores #5"]:::herick
   end
 
-  subgraph ss2 ["Tarefas Semana 2 - 08/08/2023 ~ 14/08/2023"]
+  subgraph ss2 ["Tarefas Semana 2 - 08/10/2023 ~ 14/10/2023"]
     direction BT
     i6["Cortar a fibra de carbono #6"]:::manoel
     i7["soldar led indicador e a chave geral #7"]:::krishna
@@ -135,14 +135,14 @@ flowchart LR
     p3["Soldas mal feitas"]
   end
 
-  subgraph ss1 ["Tarefas Semana 1 - 01/08/2023 ~ 07/08/2023"]
+  subgraph ss1 ["Tarefas Semana 1 - 01/10/2023 ~ 07/10/2023"]
     i1["Reconhecer linha preta com sensor IR #1"]:::marcelo
     i2["Checar o funcionamento dos motores #2"]:::julia
     i3["Cortar a base do Amalinha adequadamente #3"]:::jean
     cbt4["Soldar elétrica #4"]:::krishna
   end
 
-  subgraph ss2 ["Tarefas Semana 2 - 08/08/2023 ~ 14/08/2023"]
+  subgraph ss2 ["Tarefas Semana 2 - 08/10/2023 ~ 14/10/2023"]
     i4["Mover os motores do Amalinha de acordo com o sensor #4"]:::julia
     i5["Instalar e programar o sensor de início #5"]:::marcelo
     i6["Ressoldar Módulo IR Amalinha #6"]:::krishna
@@ -195,12 +195,12 @@ flowchart LR
   r1["🔥 Murilo"]:::murilo
   r2["⚔️ Jean"]:::jean
 
-  subgraph ss1 ["Tarefas Semana 1 - 01/08/2023 ~ 07/08/2023"]
+  subgraph ss1 ["Tarefas Semana 1 - 01/10/2023 ~ 07/10/2023"]
     i1["Cortar as partes da carcaça em MDF #1"]:::jean
     i2["Soldar elétrica Termitinho #2"]:::murilo
   end
 
-  subgraph ss2 ["Tarefas Semana 2 - 08/08/2023 ~ 14/08/2023"]
+  subgraph ss2 ["Tarefas Semana 2 - 08/10/2023 ~ 14/10/2023"]
     i3["Modelar e cortar carcaça Termitinho #3"]:::jean
   end
 
