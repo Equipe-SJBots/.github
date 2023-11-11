@@ -252,6 +252,11 @@ flowchart LR
 - Guerra de Robôs (sério)
 - Robótica Rio
 
+## Sites Úteis
+
+- Módulos do Fritzing: [Arduino Modules][LinkArduinoModules]
+- Esquemas elétricos: [Scheme-It][LinkSchemeIt]
+
 <!-- Links -->
 
 [LinkAreninha]: https://chat.whatsapp.com/G75cAFL1zIU3ST5fdk17M5
@@ -277,3 +282,6 @@ flowchart LR
 [Link_Allan]: https://github.com/
 [Link_Krishna]: https://github.com/JulhoGamboa
 [Link_Marcelo]: https://github.com/
+
+[LinkSchemeIt]: https://www.digikey.com.br/en/schemeit/project
+[LinkArduinoModules]: https://arduinomodules.info/
