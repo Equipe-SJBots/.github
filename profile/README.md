@@ -256,6 +256,7 @@ flowchart LR
 
 - Módulos do Fritzing: [Arduino Modules][LinkArduinoModules]
 - Esquemas elétricos: [Scheme-It][LinkSchemeIt]
+- [Material de estudo do Lismael][LinkDriveLismael]
 
 <!-- Links -->
 
@@ -285,3 +286,5 @@ flowchart LR
 
 [LinkSchemeIt]: https://www.digikey.com.br/en/schemeit/project
 [LinkArduinoModules]: https://arduinomodules.info/
+[LinkDriveLismael]: https://drive.google.com/drive/folders/1Q4MfL3113gF4aEw8RkMEwNNp9x54CAKh
+
