@@ -257,6 +257,8 @@ flowchart LR
 - Módulos do Fritzing: [Arduino Modules][LinkArduinoModules]
 - Esquemas elétricos: [Scheme-It][LinkSchemeIt]
 - [Material de estudo do Lismael][LinkDriveLismael]
+- [Modelos 3D Fingertech](https://www.fingertechrobotics.com/index.php)
+- [GrabCAD](https://grabcad.com/library)
 
 <!-- Links -->
 
