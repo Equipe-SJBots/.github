@@ -249,6 +249,7 @@ flowchart LR
 - [Sumô de Robôs Brasil][LinkSumô]
 - [ArtBot Brasil][Artbot]
 - [Combate Rio][Combate Rio]
+- [Cupim][LinkCupim]
 - Guerra de Robôs (sério)
 - Robótica Rio
 
@@ -262,6 +263,7 @@ flowchart LR
 
 <!-- Links -->
 
+[LinkCupim]: https://chat.whatsapp.com/IQNhyKFpT8s7wUhXp9DqlT
 [LinkAreninha]: https://chat.whatsapp.com/G75cAFL1zIU3ST5fdk17M5
 [LinkGuerraDeRobos]: https://chat.whatsapp.com/B8sLR2Al0UkEI26f12fLha
 [LinkSeguidorDeLinha]: https://chat.whatsapp.com/DR6eKw7h3QsCIDOppnp4ab
