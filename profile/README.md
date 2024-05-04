@@ -272,7 +272,7 @@ flowchart LR
 ### Competições
 
 - [IRONCup 2024][IRONCup 2024]
-- [4º Summit Nacional de Robótica][4º Summit Nacional de Robótica] - Link Quebrado
+- [4º Summit Nacional de Robótica][4º Summit Nacional de Robótica]
 
 <!-- ## Links -->
 
@@ -293,7 +293,7 @@ flowchart LR
 [Seguidor de Linha BR]: https://chat.whatsapp.com/DR6eKw7h3QsCIDOppnp4ab
 [Guerra de Robôs (sério)]: https://chat.whatsapp.com/G3bgpgqo4MQGABz9weoUOK
 [Impressão 3D - Guerra de Robôs]: https://chat.whatsapp.com/KnYjfaJHrvbADVTswcg7lG
-[4º Summit Nacional de Robótica]: https://chat.whatsapp.com/EKZkQhiwhyQ6vGnF2rhxw9
+[4º Summit Nacional de Robótica]: https://chat.whatsapp.com/KqRYx0d7HE45kKCCjgpUZE
 
 <!-- ### Repositórios -->
 
