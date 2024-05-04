@@ -241,18 +241,6 @@ flowchart LR
 | [Julia Pessanha Machado da Silva][Link_Murilo]       | Voluntário                              | Voluntário - Ensino Médio                  | 2023/10 ~ ...     |
 | [Marcelo Ecard Souza dos Anjos][Link_Marcelo]        | Elétrica                                | Jovens Talentos - Ensino Médio             | 2023/10 ~ ...     |
 
-## Grupos de WhatsApp
-
-- [Areninha][LinkAreninha]
-- [Guerra de Robôs][LinkGuerraDeRobos]
-- [Seguidor de Linha Brasil][LinkSeguidorDeLinha]
-- [Sumô de Robôs Brasil][LinkSumô]
-- [ArtBot Brasil][Artbot]
-- [Combate Rio][Combate Rio]
-- [Cupim][LinkCupim]
-- Guerra de Robôs (sério)
-- Robótica Rio
-
 ## Sites Úteis
 
 - Módulos do Fritzing: [Arduino Modules][LinkArduinoModules]
@@ -261,20 +249,60 @@ flowchart LR
 - [Modelos 3D Fingertech](https://www.fingertechrobotics.com/index.php)
 - [GrabCAD](https://grabcad.com/library)
 
-<!-- Links -->
+## Grupos de WhatsApp
 
-[LinkCupim]: https://chat.whatsapp.com/IQNhyKFpT8s7wUhXp9DqlT
-[LinkAreninha]: https://chat.whatsapp.com/G75cAFL1zIU3ST5fdk17M5
-[LinkGuerraDeRobos]: https://chat.whatsapp.com/B8sLR2Al0UkEI26f12fLha
-[LinkSeguidorDeLinha]: https://chat.whatsapp.com/DR6eKw7h3QsCIDOppnp4ab
-[LinkSumô]: https://chat.whatsapp.com/D8Z5p4fXTLCGTwzOUwecf3
-[Artbot]: https://chat.whatsapp.com/BXMSQ6iBZ9b792aG2I1yYy
-[Combate Rio]: https://chat.whatsapp.com/FadAHLT8pOoLmbCUI0WQ8o
+- [VSSS][VSSS BR]
+- [ArtBot][ArtBot BR]
+- [Hockeys][Hockeys] - A diferença é a foto de perfil (e a quantidade de gente)
+- [Hockeys][Hockeys BR] - A diferença é a foto de perfil (e a quantidade de gente)
+- [Areninha][Areninha]
+- [Impressão 3D][Impressão 3D Brasil]
+- [Sumô de Robôs][Sumô de Robôs BR]
+- [Categoria Cupim][Categoria Cupim]
+- [Guerra de Robôs][Guerra de Robôs]
+- [Seguidor de Linha][Seguidor de Linha BR]
+- [Guerra de Robôs (sério)][Guerra de Robôs (sério)]
+- [Impressão 3D - Guerra de Robôs][Impressão 3D - Guerra de Robôs]
+
+### RJ
+
+- [RJ - Combate][Combate RJ]
+- [RJ - Robótica][Robótica RJ]
+
+### Competições
+
+- [IRONCup 2024][IRONCup 2024]
+- [4º Summit Nacional de Robótica][4º Summit Nacional de Robótica] - Link Quebrado
+
+<!-- ## Links -->
+
+<!-- ### Grupos -->
+
+[VSSS BR]: https://chat.whatsapp.com/GGQWEJd6MAiBYe5u1thluH
+[Hockeys]: https://chat.whatsapp.com/CAIO5oCqZcpHTBeUwM4347
+[Areninha]: https://chat.whatsapp.com/G75cAFL1zIU3ST5fdk17M5
+[ArtBot BR]: https://chat.whatsapp.com/BXMSQ6iBZ9b792aG2I1yYy
+[Hockeys BR]: https://chat.whatsapp.com/LkKavdw9Opp8J1uln7dV4S
+[Combate RJ]: https://chat.whatsapp.com/FadAHLT8pOoLmbCUI0WQ8o
+[Robótica RJ]: https://chat.whatsapp.com/GjA9lSFv4qeHW5s6OvjXD0
+[IRONCup 2024]: https://chat.whatsapp.com/Fwv7ZnfGzbeH2pXnKLAaBo
+[Categoria Cupim]: https://chat.whatsapp.com/IQNhyKFpT8s7wUhXp9DqlT
+[Guerra de Robôs]: https://chat.whatsapp.com/B8sLR2Al0UkEI26f12fLha
+[Sumô de Robôs BR]: https://chat.whatsapp.com/D8Z5p4fXTLCGTwzOUwecf3
+[Impressão 3D Brasil]: https://chat.whatsapp.com/LmMG5E0L9bc9RD8ruB9tXm
+[Seguidor de Linha BR]: https://chat.whatsapp.com/DR6eKw7h3QsCIDOppnp4ab
+[Guerra de Robôs (sério)]: https://chat.whatsapp.com/G3bgpgqo4MQGABz9weoUOK
+[Impressão 3D - Guerra de Robôs]: https://chat.whatsapp.com/KnYjfaJHrvbADVTswcg7lG
+[4º Summit Nacional de Robótica]: https://chat.whatsapp.com/EKZkQhiwhyQ6vGnF2rhxw9
+
+<!-- ### Repositórios -->
 
 [LinkMisc]: https://github.com/Equipe-SJBots/misc
 [LinkCombots]: https://github.com/Equipe-SJBots/combots
 [LinkAmalinha]: https://github.com/Equipe-SJBots/amalinha
 [LinkTermitinho]: https://github.com/Equipe-SJBots/termitinho
+
+<!-- ### Links pessoais -->
 
 [LinkLabMaker]: https://www.instagram.com/labmakersjb/
 [Link_Allysson]: https://www.linkedin.com/in/allysson-tavares-92291632/
@@ -287,6 +315,8 @@ flowchart LR
 [Link_Allan]: https://github.com/
 [Link_Krishna]: https://github.com/JulhoGamboa
 [Link_Marcelo]: https://github.com/
+
+<!-- ### Links úteis -->
 
 [LinkSchemeIt]: https://www.digikey.com.br/en/schemeit/project
 [LinkArduinoModules]: https://arduinomodules.info/
