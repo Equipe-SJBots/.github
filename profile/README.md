@@ -256,6 +256,7 @@ flowchart LR
 - [Hockeys][Hockeys] - A diferença é a foto de perfil (e a quantidade de gente)
 - [Hockeys][Hockeys BR] - A diferença é a foto de perfil (e a quantidade de gente)
 - [Areninha][Areninha]
+- [Micro Mouse][Micro Mouse]
 - [Impressão 3D][Impressão 3D Brasil]
 - [Sumô de Robôs][Sumô de Robôs BR]
 - [Categoria Cupim][Categoria Cupim]
@@ -285,6 +286,7 @@ flowchart LR
 [Hockeys BR]: https://chat.whatsapp.com/LkKavdw9Opp8J1uln7dV4S
 [Combate RJ]: https://chat.whatsapp.com/FadAHLT8pOoLmbCUI0WQ8o
 [Robótica RJ]: https://chat.whatsapp.com/GjA9lSFv4qeHW5s6OvjXD0
+[Micro Mouse]: https://chat.whatsapp.com/KibFyHYL2795qNFhDgJJMj
 [IRONCup 2024]: https://chat.whatsapp.com/Fwv7ZnfGzbeH2pXnKLAaBo
 [Categoria Cupim]: https://chat.whatsapp.com/IQNhyKFpT8s7wUhXp9DqlT
 [Guerra de Robôs]: https://chat.whatsapp.com/B8sLR2Al0UkEI26f12fLha
